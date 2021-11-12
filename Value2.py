@@ -11,7 +11,7 @@ orange_price =25
 
 def get_exchange():
     apple_qty = int(input("Enter the quantity of apple: "))
-    orange_qty = int(input("Enter the q4uantity of orange: "))
+    orange_qty = int(input("Enter the quantity of orange: "))
     total_apple = (apple_qty * apple_price)
     total_orange = (orange_qty * orange_price)
     total_ = (total_orange + total_apple)
